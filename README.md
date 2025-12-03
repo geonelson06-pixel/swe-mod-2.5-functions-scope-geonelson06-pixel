@@ -13,7 +13,7 @@ By the end of this lesson, you will be able to:
 
 ### Key Concept: Function Calls Are Expressions
 
-Every function call is an **expression** that resolves to a value. Without a `return` statement, a function resolves to `undefined`.
+Every function call is an **expression** that resolves to a value. Without a `return` statement, a function implicitly resolves to `undefined`.
 
 **Example:**
 ```javascript
